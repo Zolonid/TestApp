@@ -1,0 +1,12 @@
+release/connectiondialog.o
+release/connectionmanager.o
+release/consolewidget.o
+release/main.o
+release/mainwindow.o
+release/testwidget.o
+release/util.o
+release/moc_connectiondialog.o
+release/moc_connectionmanager.o
+release/moc_consolewidget.o
+release/moc_mainwindow.o
+release/moc_testwidget.o

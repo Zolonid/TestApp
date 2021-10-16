@@ -1,0 +1,12 @@
+debug/connectiondialog.o
+debug/connectionmanager.o
+debug/consolewidget.o
+debug/main.o
+debug/mainwindow.o
+debug/testwidget.o
+debug/util.o
+debug/moc_connectiondialog.o
+debug/moc_connectionmanager.o
+debug/moc_consolewidget.o
+debug/moc_mainwindow.o
+debug/moc_testwidget.o
